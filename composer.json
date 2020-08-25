@@ -1,0 +1,13 @@
+{
+    "name": "danil/my-project",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Arduanov",
+            "email": "rylezz@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^7.25"
+    }
+}
